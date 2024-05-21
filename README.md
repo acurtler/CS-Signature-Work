@@ -1,4 +1,4 @@
-# Signature Work Portfolio
+# Signature Work Portfolio - Anna Curtler
 
 1. Microbialite Database Web Application  
    https://github.com/acurtler/MicrobialitesDBApp  
