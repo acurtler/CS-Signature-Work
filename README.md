@@ -3,8 +3,8 @@
 1. Microbialite Database Web Application  
    https://github.com/acurtler/MicrobialitesDBApp  
 
-   This project involved migrating a geology professor's geologic database from Microsoft Access to PostgreSQL. I created a web application for exploring the database and learning more about the classifications of microbialites. 
-
+   This project involved migrating a geology professor's geologic database from Microsoft Access to PostgreSQL. I created a web application for exploring the database and learning more about the classifications of microbialites.
+   
 2. Crime Map  
   https://github.com/acurtler/CrimeMap
 
