@@ -1,7 +1,7 @@
 # Signature Work Portfolio
 
 1. Microbialite Database Web Application  
-   https://github.com/acurtler/microbialitesDBApp
+   https://github.com/acurtler/MicrobialitesDBApp
 
 2. Crime map  
   https://github.com/acurtler/CrimeMap
