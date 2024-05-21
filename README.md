@@ -5,7 +5,7 @@
 2. Crime map
   https://github.com/mccr7715/Project4.git
 
-4. Personal Website
+3. Personal Website
    https://acurtler.github.io/
 
-6. Chloride Concentration Data Analysis
+4. Chloride Concentration Data Analysis
